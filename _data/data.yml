@@ -65,68 +65,71 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: BSc in Mathematics and engineering
+        university: Vilnius Gediminas Technical University
+        time: 2001 - 2005
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Mathematics and engineering discipline.
+          Activities and societies: Member\president University Fundamental Science Students representation
+          
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software DEveloper | Lead Developer
+        time: 2018 - Present
+        company: Macaw
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          The Lead Developer in M365 development area, specifically focused on Sharepoint, 
+          Teams, PowerApps, Power Automate, and Azure, i am responsible providing technical guidance, 
+          coaching, and mentoring to team members. 
+          I am designing, developing, testing, and implementing custom solutions within the M365 environment, 
+          ensuring that all solutions meet the highest standards of quality and adhere to best practices.
+      - role: Senior Sharepoint Developer
+        time: 2016 - 2018
+        company: Barclays Group Operations Lithuania
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+          My job responsibilities include:
+
+          Gathering requirements from business and pass to the development.
+          Developing solutions for SharePoint 2010/2013/2016 using Farm/sandbox solutions/SharePoint Framework
+          SharePoint or Provider Hosted solutions.
+
+          Redesigning solutions and preparing for the migration to newest SharePoint versions and Office 365.
+
+          Technologies i common use
+          Typescript, AngularJS, Angular, React, SharePoint Framework, WebPack, NodeJs, PowerwShell, Javascript, 
+          .NET framework 3.5 and above.
+
+          HTML5, CSS3 with Boostrap 3 and 4, OfficeFabric
+
+          Implementing various solutions to automate business processes using powershell/workflow/custom forms.
+          Setting up feedback system for each solution and making sure products are up to date, problems recorded and resolved.
+      - role: Senior Sharepoint Engineer
+        time: 2011 - 2018
+        company: Barclays Group Operations Lithuania
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Working with SharePoint environments: WSS 2.0(SharePoint 2003), MOSS 2007(SharePoint 2007), SharePoint 2010.
+          main responsibilities:
+          
+          Administering environments large environments (20-30+ servers per environment)
+          Creating PowerShell scripts to automate maintenance, gather data, monitoring.
+          Creating Scripts to automate most common End User requests. 
+          Migration from SharePoint 2003 to 2007,
+          Migration from SharePoint 2007 to 2010
+          Implementing Changes, 
+          Doing risk assessment for whole environment (Windows servers/SQL/SharePoint configuration) each year according to best Microsoft practices.
+      - role: Analyst - Programmer
+        time: 2010 - 2011
+        company: Bite Lietuva - Telecommunication company
+        details: |
+          Configuration and administration of SharePoint. 
+          Custom solutions development with InfoPath forms, SharePoint workflow, custom web parts. 
+          Extend functionalities of SharePoint Designer.
+      - role: Administrative Division professional-specialist
+        time: 2006 - 2010
+        company: National Paying Agency under the Ministry of Agriculture of the Republic of Lithuania
+        details: |
+          System administrator. 3rd level support. Server administration. Senior user of Microsoft Office suite.
 projects:
     title: Projects
     intro: >
