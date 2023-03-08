@@ -27,7 +27,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
@@ -56,55 +56,59 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    to be updated
+      # Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      # adipiscing elit. You can [download this free resume/CV template here]().
+      # Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      # penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      # Donec quam felis, ultricies nec, pellentesque eu.
+      # Second paragraph if required.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
+      - degree: # MSc in Computer Science
+        university: # University of London
         time: 2011 - 2012
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
+         to be updated
+          # Describe your study here lorem ipsum dolor sit amet, consectetuer
+          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          # sociis natoque penatibus et magnis dis parturient montes, nascetur
+          # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          # pretium quis, sem.
+          #   - Bullet point
+          #   - Bullet point
+      - degree: # BSc in Applied Mathematics
+        university: # Bristol University
         time: 2007 - 2011
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+         to be updated
+          # Describe your study here lorem ipsum dolor sit amet, consectetuer
+          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          # sociis natoque penatibus et magnis dis parturient montes, nascetur
+          # ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          # pretium quis, sem.
+          #   - Bullet point
+          #   - Bullet point
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: #Lead Developer
+        time: #2015 - Present
+        company: # Startup Hubs, San Francisco
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+         to be updated
+          # Describe your role here lorem ipsum dolor sit amet, consectetuer
+          # adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          # Cum sociis natoque penatibus et magnis dis parturient montes,
+          # nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          # enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          # error sit voluptatem accusantium doloremque laudantium, totam rem
+          # aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          # architecto beatae vitae dicta sunt explicabo.
+          #   - Bullet point
+          #   - Bullet point
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
