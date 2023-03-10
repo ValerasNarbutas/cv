@@ -212,23 +212,40 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Typescript
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
+      - name: React
+        level: 85%
+
       - name: Angular
         level: 98%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 98%
 
-      - name: Ruby on Rails
+      - name: Bootstrap
         level: 85%
+       
+      - name: Office Fabric
+        level: 92%  
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SharePoint 2010/2013/2016/2019/Online
+        level: 98%
+
+      - name: SharePoint Framework
+        level: 98%
+
+      - name: .NET Framework
+        level: 65%
+
+      - name: powershell
+        level: 98%
+
+      
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
