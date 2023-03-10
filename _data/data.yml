@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Valeras Narbutas
-    tagline: M365 Developer, Modern Workplace Developer, SharePoint Developer, Power Platform Developer
+    tagline: M365 Developer, Modern Workplace Developer, SharePoint Developer, Power Platform Developer, OpenSource Contributor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,12 +56,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      As a self-motivated developer, I specialize in Microsoft 365 Modern workspace solutions such as SharePoint 2007/2010/2013/2016,
+      SharePoint Online, MS Teams, PowerApps, Power Automate, Logic Apps, and Azure functions. With the ability to lead other developers 
+      on projects and work effectively as part of a geographically distributed team, I take ownership of issues and problems and work them 
+      through to resolution.
+      
+      My expertise includes standard methods, tools, and techniques for requirements definition, enabling me to produce detail-level functional
+      requirement documentation. I am also experienced in implementing or managing risk management processes and tools.
+      I actively seek ways to understand, mitigate or reduce risks, drawing on expert advice, risk assessment, and management reports.
+        
+      My knowledge extends beyond SharePoint to include the ability to discuss key benefits and drawbacks of existing online solutions,
+      while keeping abreast of new technology developments in the intranet and webspace. I have good general knowledge with some detailed 
+      knowledge of products/functions outside of SharePoint.
+
+      As part of my commitment to the Microsoft community, I often contribute to Microsoft Patterns and Practices #sharingiscaring.
 education:
     title: Education
     info:
@@ -130,51 +138,53 @@ experiences:
         company: National Paying Agency under the Ministry of Agriculture of the Republic of Lithuania
         details: |
           System administrator. 3rd level support. Server administration. Senior user of Microsoft Office suite.
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
-    title: OSS Contributions
+    title: Open Source Contributions
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      This list your open source contributions.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: ScriptSamples
+        link: "https://pnp.github.io/script-samples/?query=valeras"
+        tagline: "PnP Script Samples, a collection of scripts to help you get started with PnP PowerShell, ms graph, and other PnP libraries."
 
-      - title: Atom
+      - title: PnpJS
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: PowerPlatform Samples
+        link: "https://pnp.github.io/powerplatform-samples/"
+        tagline: "Bug fixes and improvements for the PowerPlatform samples."
+
+      - title: Tips and Tricks
+        link: "https://valerasnarbutas.github.io/categories/tipsandtricks/"
+        tagline: "A collection of tips and tricks for SharePoint, Office 365, and Microsoft 365."
 
 publications:
     title: Publications
