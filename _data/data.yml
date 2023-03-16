@@ -143,9 +143,9 @@ badges:
     intro: >
         Credly accredited badges
     badges:
-        - title: Community Contributor 2023
-          link:  "https://www.credly.com/badges/af20c610-89dd-4dcc-9067-e6912614dbaa/public_url"
-          tagline: tagline
+      - title: Community Contributor 2023
+        link:  "https://www.credly.com/badges/af20c610-89dd-4dcc-9067-e6912614dbaa/public_url"
+        tagline: tagline
 # projects:
 #     title: Projects
 #     intro: >
