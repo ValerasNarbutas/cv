@@ -1,0 +1,38 @@
+{% assign badges = site.data.data.badges %}
+{% if badges %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-archive fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ badges.title }}
+  </h2>
+
+  {% if badges.intro %}
+  <div class="intro">
+      <p>{{ badges.intro }}</p>
+  </div><!--//intro-->
+  {% endif %}
+
+  {% for badge in badges.badges %}
+    <div class="item">
+
+      <span class="project-title">
+        {% if badge.link %}
+        <a href="{{ bagge.link }}" target="_blank">{{ badge.title }}</a>
+        {% else %}
+        {{ badge.title }}
+        {% endif %}
+      </span>
+
+      {% if badge.tagline %}
+      - <span class="project-tagline">{{ badge.tagline }}</span>
+      {% endif %}
+
+    </div><!--//item-->
+  {% endfor %}
+
+</section><!--//section-->
+{% endif %}
