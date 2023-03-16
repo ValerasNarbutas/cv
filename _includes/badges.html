@@ -15,10 +15,18 @@
       <p>{{ badges.intro }}</p>
   </div><!--//intro-->
   {% endif %}
-
-  {% for badge in badges.badges %}
+  <div 
+    data-iframe-width="150" 
+    data-iframe-height="270" 
+    data-share-badge-id="af20c610-89dd-4dcc-9067-e6912614dbaa" 
+    data-share-badge-host="https://www.credly.com">
+  </div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d281ecd7-b093-464c-85af-c254eeb498e3" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0f7d4c49-cc34-4bd7-bee5-b64006f73d49" data-share-badge-host="https://www.credly.com"></div>
+  <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d3d3dd09-0f6f-4fc2-ac9e-ba0918b61882" data-share-badge-host="https://www.credly.com"></div>
+  <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+  <!-- {% for badge in badges.badges %}
     <div class="item">
-
       <span class="project-title">
         {% if badge.link %}
         <a href="{{ bagge.link }}" target="_blank">{{ badge.title }}</a>
@@ -31,16 +39,10 @@
       - <span class="project-tagline">{{ badge.tagline }}</span>
       {% endif %}
 
-      <div 
-        data-iframe-width="150" 
-        data-iframe-height="270" 
-        data-share-badge-id="af20c610-89dd-4dcc-9067-e6912614dbaa" 
-        data-share-badge-host="https://www.credly.com">
-      </div>
-    <script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
     </div><!--//item-->
-  {% endfor %}
+  {% endfor %} -->
 
 </section><!--//section-->
 {% endif %}
