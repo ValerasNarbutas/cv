@@ -138,12 +138,13 @@ experiences:
         company: National Paying Agency under the Ministry of Agriculture of the Republic of Lithuania
         details: |
           System administrator. 3rd level support. Server administration. Senior user of Microsoft Office suite.
-  badges:
+badges:
     title: Badges
-    intro: Credly acredited badges
-      badges:
-        - title: title
-          link:  "#"
+    intro: >
+        Credly accredited badges
+    badges:
+        - title: Community Contributor 2023
+          link:  "https://www.credly.com/badges/af20c610-89dd-4dcc-9067-e6912614dbaa/public_url"
           tagline: tagline
 # projects:
 #     title: Projects
